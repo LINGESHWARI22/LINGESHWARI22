@@ -2,7 +2,7 @@
 
 ##  About Me
 - Aspiring Full-Stack Developer | AI / ML Enthusiast  
-- Passionate about building impactful apps in **healthcare**, **safety**, and **career development**
+
 
 ##  Featured Projects
 | Project | Description | Tech Stack |
