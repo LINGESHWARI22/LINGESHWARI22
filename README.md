@@ -12,11 +12,6 @@
 | [Driver-Safety-Assistant](https://github.com/LINGESHWARI22/Driver-Safety-Assistant) | Real-time drowsiness detection and alerts for safer driving | Python, Computer Vision |
 | [Disease-Prediction-System](https://github.com/LINGESHWARI22/Disease-Prediction-System) | Predicts diseases from symptoms with severity scores and PDF advice reports | Flask, Scikit-learn, JavaScript, HTML/CSS |
 
-##  Skills & Tools
-- **Languages:** Python, JavaScript, **Java**  
-- **Frameworks:** Streamlit, Flask, React, TailwindCSS  
-- **Technologies:** AI/ML, Computer Vision, PDF Generation, JWT Auth, MongoDB, SQLite  
-- **Dev Tools:** Git, Docker, VS Code, REST APIs
 
 ## 📫 Let’s Connect
 - **Email:** lingasawale@gmail.com  
@@ -25,8 +20,3 @@
 
 ---
 
-###  Enhancements You Could Add (later)
-- Badges (Shields.io) for skills and repo stats  
-- GitHub Readme Stats (cards for languages, streaks)  
-- Screenshots/GIFs of your apps  
-- Visitor counter
